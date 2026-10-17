@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Studio - Event Gamification Platform",
+  "description": "Plataforma para organizadores de eventos: crea arcades interactivos de marca (Catch & Collect, Brand Quiz, Reaction Test), opera en móvil o kiosko físico con QR y leaderboards en vivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
